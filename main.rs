@@ -9,7 +9,7 @@ use warp::Filter;
 #[tokio::main]
 async fn main() {
     // HARDCODED TOKEN
-    let token = "MTQ0MDc1Mjk2MzA0MjY3NjkzMQ.GGv7mw.3na5P8FNgTJplyglOzfEXwK8FMhSb8F7Dl_2l0";
+    let token = "MTQ2MDY2MDk2MTE2OTExNzMxNg.G1XFSe.dWVnJ3eVf2n18kiEMQs_TUwmJLWmcJl34cR7o8";
 
     // 1. RENDER HEALTH CHECK (Port 10000)
     // Prevents Render from failing the deploy
